@@ -1,0 +1,19 @@
+{
+"bus":[
+{
+"name":"Hanif AC **",
+"seats":"32",
+"hotline": 5222
+},
+{
+"name":"Shyamoli AC **",
+"seats":"32",
+"hotline": 5222
+},
+{
+"name":"Nabil Non-AC **",
+"seats":"32",
+"hotline": 5222
+}
+]
+}
